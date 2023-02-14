@@ -14,6 +14,7 @@ Este diplomado es para aprender Js y la libreria de React Js.
 - [Johs Salinas](https://github.com/johssalinas) 
 - [Arley Colmenares](https://github.com/arleyortiz10)
 - [Luis Silva](https://github.com/silpos)
+- [Nicolas Galvan](https://github.com/NicoGalvan)
 - [Alvaro Gomez](https://github.com/Alvarog0218) --Alvarog0218
 - [Liz Villabona](https://github.com/lizvillabona)
 - [Jorge Rodriguez --](https://github.com/Jarcoder)
