@@ -12,5 +12,4 @@ Este diplomado es para aprender Js y la libreria de React Js.
 - [ivan diaz](https://github.com/ivandiaz1998)
 - [Jhon Florez](https://github.com/JhonFlorez17)
 - [Johs Salinas](https://github.com/johssalinas) 
--[Arley Colmenares](https://github.com/arleyortiz10)--ArleyOrtiz10 
- 
+- [Arley Ortiz](https://github.com/arleyortiz10) =ArleyOrtiz10
