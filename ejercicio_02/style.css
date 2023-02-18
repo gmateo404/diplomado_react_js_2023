@@ -1,3 +1,12 @@
 body {
     background-color: rgb(141, 189, 255);
 }
+
+@font-face {
+    font-family: 'rotobo_font';
+    src: url("./static/fonts/roboto/Roboto-Black.ttf");
+}
+
+.font_roboto {
+    font-family: 'rotobo_font';
+}
